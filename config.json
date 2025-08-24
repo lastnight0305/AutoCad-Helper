@@ -1,0 +1,19 @@
+{
+    "prev_key": "ctrl+left",
+    "next_key": "ctrl+right",
+    "opacity": 0.95,
+    "bg_color": "#000000",
+    "text_color": "#FFFFFF",
+    "font_size": 10,
+    "lines_per_page": 10,
+    "window_position": {
+        "x": 957,
+        "y": 345
+    },
+    "window_size": {
+        "width": 300,
+        "height": 300
+    },
+    "theme": "dark",
+    "commands_per_page": 5
+}
