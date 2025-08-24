@@ -1,4 +1,18 @@
-# coding=utf-8
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+AutoCAD Helper
+-------------
+
+Ứng dụng hỗ trợ hiển thị các lệnh AutoCAD thông dụng với giao diện trong suốt
+và khả năng tùy chỉnh cao.
+
+Author: lastnight0305
+License: MIT
+Version: 1.0.0
+"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import keyboard

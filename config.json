@@ -5,7 +5,7 @@
     "bg_color": "#000000",
     "text_color": "#FFFFFF",
     "font_size": 10,
-    "lines_per_page": 10,
+    "lines_per_page": 9,
     "window_position": {
         "x": 957,
         "y": 345
