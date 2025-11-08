@@ -1,19 +1,48 @@
 {
     "prev_key": "ctrl+left",
     "next_key": "ctrl+right",
-    "opacity": 0.95,
+    "opacity": 1.0,
     "bg_color": "#000000",
     "text_color": "#FFFFFF",
-    "font_size": 10,
-    "lines_per_page": 9,
+    "font_size": 9,
+    "lines_per_page": 10,
     "window_position": {
-        "x": 957,
-        "y": 345
+        "x": 1384,
+        "y": 331
     },
     "window_size": {
         "width": 300,
-        "height": 300
+        "height": 306
     },
     "theme": "dark",
+    "active_groups": {
+        "C\u01a1 b\u1ea3n": true,
+        "Ch\u1ec9nh s\u1eeda": true,
+        "S\u1eeda \u0111\u1ed5i n\u00e2ng cao": true,
+        "\u0110o l\u01b0\u1eddng": true,
+        "Layer & Thu\u1ed9c t\u00ednh": true,
+        "Text & Dimension": true,
+        "Block & Reference": true,
+        "C\u00f4ng c\u1ee5 h\u1ed7 tr\u1ee3": true
+    },
+    "button_style": {
+        "font_family": "Segoe UI",
+        "font_size": 10,
+        "font_weight": "normal",
+        "text_color": "#FFFFFF",
+        "bg_color": "#3a3a3a",
+        "hover_color": "#4a4a4a",
+        "border_radius": 4,
+        "border_width": 0,
+        "border_color": "#555555",
+        "shadow_depth": 2,
+        "padding_x": 15,
+        "padding_y": 8
+    },
+    "group_hotkeys": {},
+    "group_styles": {},
+    "show_tooltips": true,
+    "tooltip_delay": 500,
+    "group_switcher_style": "tabs",
     "commands_per_page": 5
 }
